@@ -1,0 +1,18 @@
+{
+  "name": "blog.krzywiecki.com",
+  "homepage": "http://blog.krzywiecki.com",
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "authors": [
+    "dominik@krzywiecki.com"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
